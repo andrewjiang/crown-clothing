@@ -1,7 +1,6 @@
 import React from 'react';
 
 import SHOP_DATA from './shop.data'
-import Directory from '../../components/directory/directory.component'
 import CollectionPreview from '../../components/collection-preview/collection-preview.component'
 
 import './shop.styles.scss'
